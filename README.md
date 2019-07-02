@@ -18,18 +18,18 @@ $ sls
 
 ## Configure aws credentials:
 ```
-sls config credentials --provider aws --key AKxxxxxxxxxxxxx --secret 90xxxxxxxxxxxxxxxxxxxxxxx
+$ sls config credentials --provider aws --key AKxxxxxxxxxxxxx --secret 90xxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## create project:
 ```
-sls create --help
-sls create --template aws-python3
-sls create --template aws-nodejs
+$ sls create --help
+$ sls create --template aws-python3
+$ sls create --template aws-nodejs
 ```
 
 ## Deploying functions + invoking them:
 ```
-sls deploy
-sls invoke --function hello
+$ sls deploy
+$ sls invoke --function hello
 ```
