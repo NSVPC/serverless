@@ -8,7 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 $ sudo apt update
 $ sudo apt install nodejs
-$ sudo apt remove nodejs
 $ sudo apt install npm
 $ sudo npm install -g serverless
 $ serverless create --help
