@@ -34,5 +34,9 @@ $ sls invoke --function hello
 ```
 
 ## References
+```
 [AWS Template Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html)
+```
+```
 [Videos-for-beginners](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3)
+```
