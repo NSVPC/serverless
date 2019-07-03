@@ -39,7 +39,7 @@ enable debug logs
 ``` 
  $ export SLS_DEBUG=*
  ``` 
- diable sls debug log
+ disable sls debug log
  ``` 
  $ unset SLS_DEBUG
 ``` 
