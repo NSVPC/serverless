@@ -33,6 +33,18 @@ $ sls deploy
 $ sls invoke --function hello
 ```
 
+
+## Debug Logs
+enable debug logs 
+``` 
+ $ export SLS_DEBUG=*
+ ``` 
+ diable sls debug log
+ ``` 
+ $ unset SLS_DEBUG
+``` 
+ 
+
 ## References
 
 [AWS Template Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html)
